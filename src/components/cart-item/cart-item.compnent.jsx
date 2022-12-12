@@ -1,7 +1,10 @@
+
+
 import './cart-item-style.scss';
 
 const CartItem = ({ cartItem }) => {
   const { imageUrl, price, name, quantity } = cartItem;
+
 console.log(cartItem)
   return (
     <div className='cart-item-container'>
@@ -17,3 +20,4 @@ console.log(cartItem)
 };
 
 export default CartItem;
+
