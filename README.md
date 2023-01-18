@@ -1,6 +1,13 @@
 # React E-Comms Site
 
-A basic web site that includes features like:  Item display, item selection, cart, checkout, authenication,database and payment system.
+A basic web site that includes features like:  
+* Item display, 
+* Item selection, 
+* Cart - Add Items, Delete Items, 
+* Checkout, 
+* Authenication,
+* Database Storage
+* Payment system.
 
 # Technology Stack Used
 1. Reactjs
